@@ -1,0 +1,14 @@
+.texts {
+    color: rgb(106, 101, 179);
+}
+
+.edu {
+    color: rgb(122, 117, 194);
+}
+
+
+@media (max-width:1170px) {
+    .dates {
+        color: black;
+    }
+}

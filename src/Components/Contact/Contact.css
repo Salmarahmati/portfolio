@@ -1,0 +1,38 @@
+.name,
+.email,
+.msg {
+    font-size: medium;
+    width: 100%;
+    max-width: 40rem;
+    margin: 0.5rem;
+    padding: 0.5rem 1rem;
+    color: rgb(138, 133, 212);
+    border: none;
+    border-radius: 0.5rem;
+    background: rgb(40, 40, 40);
+}
+
+.submitBtn {
+    background: white;
+    padding: 0.50rem 2rem;
+    margin: 1rem;
+    color: rgb(138, 133, 212);
+    border-radius: 0.5rem;
+    cursor: pointer;
+    border-color: rgb(138, 133, 212);
+    box-shadow: 5px 5px 15px rgba(138, 133, 212, 0.397);
+}
+
+.links {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.touch {
+    list-style-type: none;
+    margin-left: -6%;
+}
+
+.m {
+    color: rgb(138, 133, 212);
+}
